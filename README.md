@@ -2,7 +2,6 @@
 - 👀 I’m interested in product design. 
 - 🌱 I’m currently learning C and game design. 
 - 💞️ I’m looking to collaborate on human-centered design projects. 
-- 📫 How to reach me ...
 
 <!---
 diwaii/diwaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
